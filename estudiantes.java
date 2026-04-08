@@ -21,6 +21,6 @@ public class estudiantes {
 
     }
     public double Promedio() {
-        return nota; // simple ejemplo
+        return nota; 
     }
 }
